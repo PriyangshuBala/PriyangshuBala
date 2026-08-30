@@ -67,20 +67,7 @@ I am an **IIT Madras Data Science graduate** and multidisciplinary analyst worki
   <a href="https://github.com/PriyangshuBala/TicketShow"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=PriyangshuBala&repo=TicketShow&hide_border=true&bg_color=0A1726&title_color=00C8D7&text_color=B8C7D9&icon_color=FF7C63" alt="TicketShow" /></a>
 </p>
 
-## 〔 Live GitHub Signal 〕
 
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=PriyangshuBala&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0A1726&title_color=00C8D7&text_color=B8C7D9&icon_color=C7F36B" alt="Priyangshu's GitHub statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PriyangshuBala&layout=compact&langs_count=8&hide_border=true&bg_color=0A1726&title_color=00C8D7&text_color=B8C7D9" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=PriyangshuBala&hide_border=true&background=0A1726&ring=00C8D7&fire=FF7C63&currStreakLabel=00C8D7&sideLabels=B8C7D9&dates=70879A&currStreakNum=F4F2EB&sideNums=F4F2EB" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PriyangshuBala&bg_color=0A1726&color=B8C7D9&line=00C8D7&point=C7F36B&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="GitHub activity graph" />
-</p>
 
 ## 〔 Contribution Stream 〕
 

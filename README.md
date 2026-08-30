@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="640" src="./assets/priyangshu-anime-glitch-profile.gif" alt="Animated anime portrait of Priyangshu Bala" />
+  <img src="./assets/priyangshu-anime-glitch-profile.gif" alt="Animated anime portrait of Priyangshu Bala" />
 </p>
 
 <p align="center">
